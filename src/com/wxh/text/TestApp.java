@@ -7,5 +7,9 @@ package com.wxh.text;
 public class TestApp {
     public static void main(String[] args) {
         System.out.println("测试");
+        System.out.println("测试1");
+    }
+    private void test1(){
+    	System.out.println("test1");
     }
 }
