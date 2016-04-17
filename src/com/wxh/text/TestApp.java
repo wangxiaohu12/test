@@ -21,6 +21,7 @@ public class TestApp {
 	private void test4(){
 		System.out.println("用户1编写");
 		System.out.println("用户2编写");
+		System.out.println("用户2编写的代码");
 		System.out.println("用户1编写的代码");
 		System.out.println("test4");
     }
