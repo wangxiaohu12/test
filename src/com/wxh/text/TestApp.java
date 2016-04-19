@@ -8,7 +8,10 @@ public class TestApp {
 	private void test1(){
 
 		String names="wangwu";
-		int i=1
-		String name="LISI";
+		String names="wangwu";
+		String names="wangwu";
+		String names="wangwu";
+		String names="wangwu";
+
 	}
 }
