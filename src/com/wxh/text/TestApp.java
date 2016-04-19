@@ -7,7 +7,7 @@ package com.wxh.text;
 public class TestApp {
 	private void test1(){
 
-		String names="llll";
+		String names="lllllllllllllll";
 		String names="lllll";
 
 
