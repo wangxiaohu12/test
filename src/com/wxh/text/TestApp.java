@@ -12,6 +12,7 @@ public class TestApp {
 		String names="wangwu";
 		String names="wangwu";
 		String names="wangwu";
+		String names="wangwu";
 
 	}
 }
