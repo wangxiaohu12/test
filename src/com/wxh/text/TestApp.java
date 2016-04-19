@@ -6,6 +6,6 @@ package com.wxh.text;
  */
 public class TestApp {
 	private void test1(){
-		int i=0;
+		int i=1;
 	}
 }
